@@ -1,0 +1,2 @@
+Este es un ejemplo del uso de constructores.
+Y destructores en Python.
